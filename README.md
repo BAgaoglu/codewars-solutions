@@ -1,2 +1,2 @@
 # codewars-solutions
- repo for my kata solutions
+ repo for my CodeWars solutions in Python.
