@@ -25,7 +25,7 @@
 # My Solution
 
 def bouncing_ball(h, bounce, window):
-    count = 1
+    count = 1 # ball falls once regardless
     if h>0 and 1>bounce>0 and window<h:
         new_bounce = h*bounce
         if new_bounce<1.5:
